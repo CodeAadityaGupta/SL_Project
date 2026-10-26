@@ -16,9 +16,7 @@ Rollno=0
 rec=""
 def pnumber(name):
     if name == a:
-        return #"+91 "    #enter mobile no. here
-    elif name == b:
-        return #"+91 "    #enter mobile no. here
+        return "+91 8450867160"    #enter mobile no. here
     elif name == c:
         return #"+91 "    #enter mobile no. here
     elif name == d:
@@ -43,7 +41,6 @@ print(" class 12th COMPUTER SCIENCE studends attendance ")
 file.write(" class 12th COMPUTER SCIENCE studends attendance ")
 file.write("\n")
 a="Aaditya Gupta        "
-b="Krish Vinchurkar     "
 c="yash Gupta           "
 d="Gaurav Mehra         "
 e="Kajal Dubey          "
@@ -51,7 +48,7 @@ f="Kashish Chaudhary    "
 g="Naman Tiwari         "
 h="Sameer Patel         " 
 q="Youmit Chaudhry      "       
-i=[a,b,c,d,e,f,g,h,q]
+i=[a,c,d,e,f,g,h,q]
 print("       NAME                ATTENDANCE")
 file.write("       NAME                ATTENDANCE")
 file.write("\n")
@@ -173,4 +170,4 @@ csv_target = os.path.join(os.path.dirname(os.path.abspath(__file__)), "attendanc
 try:
     attendance_analysis.run_interactive_menu(csv_target)
 except Exception as analysis_err:
-    print("Note: Could not run attendance analysis automatically:", analysis_err)
+    print("Note: Could not run attendance analysis automatically:", analysis_err)

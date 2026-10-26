@@ -1,17 +1,14 @@
 NAME,Roll_No,Total_Classes,Attended,Absent,Percentage,Status,Classes_Needed_For_75
-Aaditya Gupta,1,108,20,88,18.52,Defaulter / Critical (<60%),244
+Aaditya Gupta,1,111,21,90,18.92,Defaulter / Critical (<60%),249
 Ananya Soni,1,15,11,4,73.33,Warning (60-74%),1
-Saveri,1,1,0,1,0.0,Defaulter / Critical (<60%),3
 Soumya Kumar Sahu,1,2,0,2,0.0,Defaulter / Critical (<60%),6
 Aditya Patel,2,44,30,14,68.18,Warning (60-74%),12
-Krish Vinchurkar,2,67,57,10,85.07,Eligible (>=75%),0
+Yash Gupta,2,67,44,23,65.67,Warning (60-74%),25
 Anuraj Singh Rajput,3,46,15,31,32.61,Defaulter / Critical (<60%),78
-Lauda Lasun,3,2,0,2,0.0,Defaulter / Critical (<60%),6
-Yash Gupta,3,64,41,23,64.06,Warning (60-74%),28
-Gaurav Mehra,4,113,81,32,71.68,Warning (60-74%),15
+Gaurav Mehra,3,116,84,32,72.41,Warning (60-74%),12
+Kajal Dubey,4,112,65,47,58.04,Defaulter / Critical (<60%),76
 Aviral Gora Wala,5,3,2,1,66.67,Warning (60-74%),1
-Kajal Dubey,5,109,62,47,56.88,Defaulter / Critical (<60%),79
-Kashish Chaudhary,6,109,72,37,66.06,Warning (60-74%),39
-Naman Tiwari,7,112,73,39,65.18,Warning (60-74%),44
-Sameer Patel,8,112,72,40,64.29,Warning (60-74%),48
-Youmit Chaudhry,9,112,67,45,59.82,Defaulter / Critical (<60%),68
+Kashish Chaudhary,5,112,75,37,66.96,Warning (60-74%),36
+Naman Tiwari,6,115,76,39,66.09,Warning (60-74%),41
+Sameer Patel,7,114,74,40,64.91,Warning (60-74%),46
+Youmit Chaudhry,8,114,69,45,60.53,Warning (60-74%),66

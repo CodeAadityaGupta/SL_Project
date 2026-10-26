@@ -413,7 +413,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-07-29
 9,Youmit Chaudhry,present,2025-07-29
 1,Aaditya Gupta,absent,2025-07-30
-2,Krish Vinchurkar,absent,2025-07-30
 3,Anuraj Singh Rajput,present,2025-07-30
 4,Gaurav Mehra,present,2025-07-30
 5,Kajal Dubey,present,2025-07-30
@@ -422,8 +421,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-07-30
 9,Youmit Chaudhry,present,2025-07-30
 1,Aaditya Gupta,absent,2025-07-30
-2,Krish Vinchurkar,absent,2025-07-30
-3,Lauda Lasun,absent,2025-07-30
 4,Gaurav Mehra,present,2025-07-30
 5,Kajal Dubey,present,2025-07-30
 6,Kashish Chaudhary,present,2025-07-30
@@ -431,8 +428,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-07-30
 9,Youmit Chaudhry,present,2025-07-30
 1,Aaditya Gupta,absent,2025-07-30
-2,Krish Vinchurkar,absent,2025-07-30
-3,Lauda Lasun,absent,2025-07-30
 4,Gaurav Mehra,present,2025-07-30
 5,Kajal Dubey,present,2025-07-30
 6,Kashish Chaudhary,present,2025-07-30
@@ -440,7 +435,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-07-30
 9,Youmit Chaudhry,present,2025-07-30
 1,Aaditya Gupta,absent,2025-08-02
-2,Krish Vinchurkar,present,2025-08-02
 3,yash Gupta,absent,2025-08-02
 4,Gaurav Mehra,present,2025-08-02
 5,Kajal Dubey,absent,2025-08-02
@@ -449,7 +443,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-08-02
 9,Youmit Chaudhry,absent,2025-08-02
 1,Aaditya Gupta,absent,2025-08-02
-2,Krish Vinchurkar,present,2025-08-02
 3,yash Gupta,absent,2025-08-02
 4,Gaurav Mehra,present,2025-08-02
 5,Kajal Dubey,present,2025-08-02
@@ -458,7 +451,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-08-02
 9,Youmit Chaudhry,present,2025-08-02
 1,Aaditya Gupta,absent,2025-08-04
-2,Krish Vinchurkar,present,2025-08-04
 3,yash Gupta,absent,2025-08-04
 4,Gaurav Mehra,present,2025-08-04
 5,Kajal Dubey,absent,2025-08-04
@@ -468,7 +460,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,present,2025-08-04
 1,Aaditya Gupta,None,2025-08-05
 1,Aaditya Gupta,absent,2025-08-06
-2,Krish Vinchurkar,absent,2025-08-06
 3,yash Gupta,absent,2025-08-06
 4,Gaurav Mehra,absent,2025-08-06
 5,Kajal Dubey,absent,2025-08-06
@@ -476,8 +467,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 7,Naman Tiwari,absent,2025-08-06
 8,Sameer Patel,absent,2025-08-06
 9,Youmit Chaudhry,absent,2025-08-06
-1,Saveri,absent,2025-08-13
-2,Krish Vinchurkar,present,2025-08-13
 3,yash Gupta,present,2025-08-13
 4,Gaurav Mehra,present,2025-08-13
 5,Kajal Dubey,present,2025-08-13
@@ -486,7 +475,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-08-13
 9,Youmit Chaudhry,present,2025-08-13
 1,Aaditya Gupta,absent,2025-08-22
-2,Krish Vinchurkar,present,2025-08-22
 3,yash Gupta,absent,2025-08-22
 4,Gaurav Mehra,present,2025-08-22
 5,Kajal Dubey,absent,2025-08-22
@@ -495,7 +483,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-08-22
 9,Youmit Chaudhry,present,2025-08-22
 1,Aaditya Gupta,absent,2025-08-30
-2,Krish Vinchurkar,present,2025-08-30
 3,yash Gupta,present,2025-08-30
 4,Gaurav Mehra,present,2025-08-30
 5,Kajal Dubey,present,2025-08-30
@@ -504,7 +491,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-08-30
 9,Youmit Chaudhry,present,2025-08-30
 1,Aaditya Gupta,absent,2025-08-30
-2,Krish Vinchurkar,present,2025-08-30
 3,yash Gupta,present,2025-08-30
 4,Gaurav Mehra,present,2025-08-30
 5,Kajal Dubey,present,2025-08-30
@@ -513,7 +499,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-08-30
 9,Youmit Chaudhry,present,2025-08-30
 1,Aaditya Gupta,absent,2025-08-30
-2,Krish Vinchurkar,present,2025-08-30
 3,yash Gupta,present,2025-08-30
 4,Gaurav Mehra,present,2025-08-30
 5,Kajal Dubey,present,2025-08-30
@@ -522,7 +507,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-08-30
 9,Youmit Chaudhry,present,2025-08-30
 1,Aaditya Gupta,absent,2025-08-30
-2,Krish Vinchurkar,present,2025-08-30
 3,yash Gupta,present,2025-08-30
 4,Gaurav Mehra,absent,2025-08-30
 5,Kajal Dubey,present,2025-08-30
@@ -531,7 +515,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-08-30
 9,Youmit Chaudhry,present,2025-08-30
 1,Ananya Soni,absent,2025-09-03
-2,Krish Vinchurkar,present,2025-09-03
 3,yash Gupta,present,2025-09-03
 4,Gaurav Mehra,present,2025-09-03
 5,Kajal Dubey,present,2025-09-03
@@ -540,7 +523,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-09-03
 9,Youmit Chaudhry,present,2025-09-03
 1,Soumya Kumar Sahu,absent,2025-09-03
-2,Krish Vinchurkar,present,2025-09-03
 3,yash Gupta,absent,2025-09-03
 4,Gaurav Mehra,present,2025-09-03
 5,Kajal Dubey,present,2025-09-03
@@ -549,7 +531,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-09-03
 9,Youmit Chaudhry,present,2025-09-03
 1,Soumya Kumar Sahu,absent,2025-09-03
-2,Krish Vinchurkar,present,2025-09-03
 3,yash Gupta,present,2025-09-03
 4,Gaurav Mehra,present,2025-09-03
 5,Kajal Dubey,present,2025-09-03
@@ -558,7 +539,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-09-03
 9,Youmit Chaudhry,present,2025-09-03
 1,Aaditya Gupta,present,2025-9-5
-2,Krish Vinchurkar,absent,2025-9-5
 3,Yash Gupta,present,2025-9-5
 4,Gaurav Mehra,present,2025-9-5
 5,Kajal Dubey,absent,2025-9-5
@@ -567,7 +547,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-9-5
 9,Youmit Chaudhry,absent,2025-9-5
 1,Aaditya Gupta,absent,2025-09-05
-2,Krish Vinchurkar,present,2025-09-05
 3,yash Gupta,present,2025-09-05
 4,Gaurav Mehra,present,2025-09-05
 5,Kajal Dubey,present,2025-09-05
@@ -576,7 +555,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-05
 9,Youmit Chaudhry,absent,2025-09-05
 1,Aaditya Gupta,absent,2025-09-05
-2,Krish Vinchurkar,present,2025-09-05
 3,yash Gupta,present,2025-09-05
 4,Gaurav Mehra,absent,2025-09-05
 5,Kajal Dubey,absent,2025-09-05
@@ -585,7 +563,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-05
 9,Youmit Chaudhry,absent,2025-09-05
 1,Aaditya Gupta,absent,2025-09-05
-2,Krish Vinchurkar,present,2025-09-05
 3,Yash Gupta,absent,2025-09-05
 4,Gaurav Mehra,present,2025-09-05
 5,Kajal Dubey,absent,2025-09-05
@@ -594,7 +571,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-09-05
 9,Youmit Chaudhry,absent,2025-09-05
 10,Aaditya Gupta,absent,2025-09-05
-11,Krish Vinchurkar,present,2025-09-05
 12,Yash Gupta,absent,2025-09-05
 13,Gaurav Mehra,present,2025-09-05
 14,Kajal Dubey,absent,2025-09-05
@@ -603,7 +579,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 17,Sameer Patel,present,2025-09-05
 18,Youmit Chaudhry,absent,2025-09-05
 1,Aaditya Gupta,absent,2025-09-05
-2,Krish Vinchurkar,present,2025-09-05
 3,Yash Gupta,absent,2025-09-05
 4,Gaurav Mehra,present,2025-09-05
 5,Kajal Dubey,absent,2025-09-05
@@ -612,7 +587,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-05
 9,Youmit Chaudhry,absent,2025-09-05
 1,Aaditya Gupta,absent,2025-09-05
-2,Krish Vinchurkar,present,2025-09-05
 3,Yash Gupta,absent,2025-09-05
 4,Gaurav Mehra,present,2025-09-05
 5,Kajal Dubey,absent,2025-09-05
@@ -621,7 +595,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-05
 9,Youmit Chaudhry,absent,2025-09-05
 1,Aaditya Gupta,absent,2025-09-05
-2,Krish Vinchurkar,present,2025-09-05
 3,Yash Gupta,absent,2025-09-05
 4,Gaurav Mehra,present,2025-09-05
 5,Kajal Dubey,absent,2025-09-05
@@ -630,7 +603,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-09-05
 9,Youmit Chaudhry,absent,2025-09-05
 1,Aaditya Gupta,absent,2025-09-05
-2,Krish Vinchurkar,present,2025-09-05
 3,Yash Gupta,absent,2025-09-05
 4,Gaurav Mehra,present,2025-09-05
 5,Kajal Dubey,present,2025-09-05
@@ -639,7 +611,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-05
 9,Youmit Chaudhry,absent,2025-09-05
 1,Aaditya Gupta,absent,2025-09-05
-2,Krish Vinchurkar,present,2025-09-05
 3,Yash Gupta,present,2025-09-05
 4,Gaurav Mehra,absent,2025-09-05
 5,Kajal Dubey,present,2025-09-05
@@ -648,7 +619,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-05
 9,Youmit Chaudhry,absent,2025-09-05
 1,Aaditya Gupta,absent,2025-09-05
-2,Krish Vinchurkar,present,2025-09-05
 3,Yash Gupta,present,2025-09-05
 4,Gaurav Mehra,absent,2025-09-05
 5,Kajal Dubey,present,2025-09-05
@@ -657,7 +627,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-05
 9,Youmit Chaudhry,absent,2025-09-05
 1,Aaditya Gupta,absent,2025-09-05
-2,Krish Vinchurkar,present,2025-09-05
 3,Yash Gupta,absent,2025-09-05
 4,Gaurav Mehra,present,2025-09-05
 5,Kajal Dubey,absent,2025-09-05
@@ -666,7 +635,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-05
 9,Youmit Chaudhry,absent,2025-09-05
 1,Aaditya Gupta,absent,2025-09-05
-2,Krish Vinchurkar,present,2025-09-05
 3,Yash Gupta,absent,2025-09-05
 4,Gaurav Mehra,present,2025-09-05
 5,Kajal Dubey,present,2025-09-05
@@ -675,7 +643,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-05
 9,Youmit Chaudhry,absent,2025-09-05
 1,Aaditya Gupta,absent,2025-09-05
-2,Krish Vinchurkar,present,2025-09-05
 3,yash Gupta,present,2025-09-05
 4,Gaurav Mehra,absent,2025-09-05
 5,Kajal Dubey,present,2025-09-05
@@ -684,7 +651,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-09-05
 9,Youmit Chaudhry,present,2025-09-05
 1,Aaditya Gupta,absent,2025-09-11
-2,Krish Vinchurkar,present,2025-09-11
 3,yash Gupta,present,2025-09-11
 4,Gaurav Mehra,present,2025-09-11
 5,Kajal Dubey,absent,2025-09-11
@@ -693,7 +659,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-11
 9,Youmit Chaudhry,absent,2025-09-11
 1,Aaditya Gupta,present,2025-09-19
-2,Krish Vinchurkar,present,2025-09-19
 3,yash Gupta,present,2025-09-19
 4,Gaurav Mehra,present,2025-09-19
 5,Kajal Dubey,present,2025-09-19
@@ -702,7 +667,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-09-19
 9,Youmit Chaudhry,present,2025-09-19
 1,Aaditya Gupta,present,2025-09-19
-2,Krish Vinchurkar,absent,2025-09-19
 3,yash Gupta,absent,2025-09-19
 4,Gaurav Mehra,absent,2025-09-19
 5,Kajal Dubey,absent,2025-09-19
@@ -711,7 +675,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-19
 9,Youmit Chaudhry,absent,2025-09-19
 1,Aaditya Gupta,present,2025-09-19
-2,Krish Vinchurkar,present,2025-09-19
 3,yash Gupta,absent,2025-09-19
 4,Gaurav Mehra,present,2025-09-19
 5,Kajal Dubey,absent,2025-09-19
@@ -720,7 +683,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-19
 9,Youmit Chaudhry,absent,2025-09-19
 1,Aaditya Gupta,present,2025-09-19
-2,Krish Vinchurkar,present,2025-09-19
 3,yash Gupta,absent,2025-09-19
 4,Gaurav Mehra,present,2025-09-19
 5,Kajal Dubey,absent,2025-09-19
@@ -729,7 +691,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-19
 9,Youmit Chaudhry,absent,2025-09-19
 1,Aaditya Gupta,absent,2025-09-19
-2,Krish Vinchurkar,present,2025-09-19
 3,yash Gupta,present,2025-09-19
 4,Gaurav Mehra,absent,2025-09-19
 5,Kajal Dubey,present,2025-09-19
@@ -738,7 +699,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-09-19
 9,Youmit Chaudhry,present,2025-09-19
 1,Aaditya Gupta,absent,2025-09-19
-2,Krish Vinchurkar,present,2025-09-19
 3,yash Gupta,present,2025-09-19
 4,Gaurav Mehra,present,2025-09-19
 5,Kajal Dubey,absent,2025-09-19
@@ -748,7 +708,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,present,2025-09-19
 1,Aaditya Gupta,None,2025-09-19
 1,Aaditya Gupta,absent,2025-09-19
-2,Krish Vinchurkar,present,2025-09-19
 3,yash Gupta,present,2025-09-19
 4,Gaurav Mehra,present,2025-09-19
 5,Kajal Dubey,present,2025-09-19
@@ -758,7 +717,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,present,2025-09-19
 10,Ananya soni,absent,2025-09-19
 1,Aaditya Gupta,absent,2025-09-20
-2,Krish Vinchurkar,present,2025-09-20
 3,yash Gupta,present,2025-09-20
 4,Gaurav Mehra,absent,2025-09-20
 5,Kajal Dubey,present,2025-09-20
@@ -768,7 +726,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,present,2025-09-20
 10,Ananya soni,present,2025-09-20
 1,Aaditya Gupta,absent,2025-09-20
-2,Krish Vinchurkar,present,2025-09-20
 3,yash Gupta,present,2025-09-20
 4,Gaurav Mehra,present,2025-09-20
 5,Kajal Dubey,present,2025-09-20
@@ -777,7 +734,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-20
 9,Youmit Chaudhry,absent,2025-09-20
 1,Aaditya Gupta,present,2025-09-20
-2,Krish Vinchurkar,present,2025-09-20
 3,yash Gupta,present,2025-09-20
 4,Gaurav Mehra,present,2025-09-20
 5,Kajal Dubey,present,2025-09-20
@@ -787,7 +743,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,present,2025-09-20
 10,Ananya soni,present,2025-09-20
 1,Aaditya Gupta,absent,2025-09-20
-2,Krish Vinchurkar,present,2025-09-20
 3,yash Gupta,present,2025-09-20
 4,Gaurav Mehra,present,2025-09-20
 5,Kajal Dubey,present,2025-09-20
@@ -796,7 +751,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-09-20
 9,Youmit Chaudhry,present,2025-09-20
 1,Aaditya Gupta,absent,2025-09-20
-2,Krish Vinchurkar,present,2025-09-20
 3,yash Gupta,absent,2025-09-20
 4,Gaurav Mehra,present,2025-09-20
 5,Kajal Dubey,absent,2025-09-20
@@ -805,7 +759,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-09-20
 9,Youmit Chaudhry,absent,2025-09-20
 1,Aaditya Gupta,absent,2025-10-29
-2,Krish Vinchurkar,present,2025-10-29
 3,yash Gupta,absent,2025-10-29
 4,Gaurav Mehra,present,2025-10-29
 5,Kajal Dubey,absent,2025-10-29
@@ -815,7 +768,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,absent,2025-10-29
 10,Ananya soni,absent,2025-10-29
 1,Aaditya Gupta,absent,2025-10-29
-2,Krish Vinchurkar,present,2025-10-29
 3,yash Gupta,present,2025-10-29
 4,Gaurav Mehra,present,2025-10-29
 5,Kajal Dubey,present,2025-10-29
@@ -825,7 +777,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,present,2025-10-29
 10,Ananya soni,present,2025-10-29
 1,Aaditya Gupta,absent,2025-11-01
-2,Krish Vinchurkar,present,2025-11-01
 3,yash Gupta,present,2025-11-01
 4,Gaurav Mehra,present,2025-11-01
 5,Kajal Dubey,present,2025-11-01
@@ -835,7 +786,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,present,2025-11-01
 10,Ananya soni,present,2025-11-01
 1,Aaditya Gupta,absent,2025-11-01
-2,Krish Vinchurkar,present,2025-11-01
 3,yash Gupta,present,2025-11-01
 4,Gaurav Mehra,present,2025-11-01
 5,Kajal Dubey,present,2025-11-01
@@ -845,7 +795,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,present,2025-11-01
 10,Ananya soni,present,2025-11-01
 1,Aaditya Gupta,absent,2025-11-23
-2,Krish Vinchurkar,present,2025-11-23
 3,yash Gupta,present,2025-11-23
 4,Gaurav Mehra,present,2025-11-23
 5,Kajal Dubey,present,2025-11-23
@@ -854,7 +803,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-11-23
 9,Youmit Chaudhry,present,2025-11-23
 1,Aaditya Gupta,present,2025-11-23
-2,Krish Vinchurkar,present,2025-11-23
 3,Yash Gupta,present,2025-11-23
 4,Gaurav Mehra,present,2025-11-23
 5,Kajal Dubey,present,2025-11-23
@@ -863,7 +811,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-11-23
 9,Youmit Chaudhry,present,2025-11-23
 1,Aaditya Gupta,present,2025-11-23
-2,Krish Vinchurkar,present,2025-11-23
 3,Yash Gupta,present,2025-11-23
 4,Gaurav Mehra,present,2025-11-23
 5,Kajal Dubey,present,2025-11-23
@@ -872,7 +819,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2025-11-23
 9,Youmit Chaudhry,present,2025-11-23
 1,Aaditya Gupta,present,2025-11-23
-2,Krish Vinchurkar,present,2025-11-23
 3,Yash Gupta,present,2025-11-23
 4,Gaurav Mehra,absent,2025-11-23
 5,Kajal Dubey,present,2025-11-23
@@ -881,7 +827,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-11-23
 9,Youmit Chaudhry,present,2025-11-23
 1,Aaditya Gupta,present,2025-11-24
-2,Krish Vinchurkar,present,2025-11-24
 3,Yash Gupta,absent,2025-11-24
 4,Gaurav Mehra,absent,2025-11-24
 5,Kajal Dubey,absent,2025-11-24
@@ -890,7 +835,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-11-24
 9,Youmit Chaudhry,absent,2025-11-24
 1,Aaditya Gupta,absent,2025-11-24
-2,Krish Vinchurkar,present,2025-11-24
 3,yash Gupta,present,2025-11-24
 4,Gaurav Mehra,present,2025-11-24
 5,Kajal Dubey,present,2025-11-24
@@ -900,7 +844,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,present,2025-11-24
 10,Ananya soni,present,2025-11-24
 1,Aaditya Gupta,absent,2025-11-27
-2,Krish Vinchurkar,present,2025-11-27
 3,Yash Gupta,present,2025-11-27
 4,Gaurav Mehra,absent,2025-11-27
 5,Kajal Dubey,present,2025-11-27
@@ -909,7 +852,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2025-11-27
 9,Youmit Chaudhry,absent,2025-11-27
 1,Aaditya Gupta,present,2026-02-07
-2,Krish Vinchurkar,present,2026-02-07
 3,Yash Gupta,present,2026-02-07
 4,Gaurav Mehra,absent,2026-02-07
 5,Kajal Dubey,absent,2026-02-07
@@ -918,7 +860,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2026-02-07
 9,Youmit Chaudhry,absent,2026-02-07
 1,Aaditya Gupta,absent,2026-02-07
-2,Krish Vinchurkar,present,2026-02-07
 3,yash Gupta,present,2026-02-07
 4,Gaurav Mehra,present,2026-02-07
 5,Kajal Dubey,present,2026-02-07
@@ -928,7 +869,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,present,2026-02-07
 10,Ananya soni,present,2026-02-07
 1,Aaditya Gupta,absent,2026-02-07
-2,Krish Vinchurkar,present,2026-02-07
 3,yash Gupta,present,2026-02-07
 4,Gaurav Mehra,present,2026-02-07
 5,Kajal Dubey,present,2026-02-07
@@ -938,7 +878,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,present,2026-02-07
 10,Ananya soni,present,2026-02-07
 1,Aaditya Gupta,absent,2026-02-07
-2,Krish Vinchurkar,present,2026-02-07
 3,Yash Gupta,present,2026-02-07
 4,Gaurav Mehra,absent,2026-02-07
 5,Kajal Dubey,absent,2026-02-07
@@ -947,7 +886,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2026-02-07
 9,Youmit Chaudhry,absent,2026-02-07
 1,Aaditya Gupta,absent,2026-02-07
-2,Krish Vinchurkar,present,2026-02-07
 3,yash Gupta,present,2026-02-07
 4,Gaurav Mehra,present,2026-02-07
 5,Kajal Dubey,present,2026-02-07
@@ -957,7 +895,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,present,2026-02-07
 10,Ananya soni,present,2026-02-07
 1,Aaditya Gupta,absent,2026-02-09
-2,Krish Vinchurkar,present,2026-02-09
 3,yash Gupta,present,2026-02-09
 4,Gaurav Mehra,present,2026-02-09
 5,Kajal Dubey,present,2026-02-09
@@ -967,7 +904,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,present,2026-02-09
 10,Ananya soni,present,2026-02-09
 1,Aaditya Gupta,absent,2026-02-09
-2,Krish Vinchurkar,absent,2026-02-09
 3,yash Gupta,absent,2026-02-09
 4,Gaurav Mehra,absent,2026-02-09
 5,Kajal Dubey,absent,2026-02-09
@@ -977,7 +913,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,absent,2026-02-09
 10,Ananya soni,absent,2026-02-09
 1,Aaditya Gupta,absent,2026-02-09
-2,Krish Vinchurkar,absent,2026-02-09
 3,yash Gupta,absent,2026-02-09
 4,Gaurav Mehra,absent,2026-02-09
 5,Kajal Dubey,absent,2026-02-09
@@ -987,7 +922,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 9,Youmit Chaudhry,present,2026-02-09
 10,Ananya soni,present,2026-02-09
 1,Aaditya Gupta,absent,2026-02-09
-2,Krish Vinchurkar,present,2026-02-09
 3,Yash Gupta,present,2026-02-09
 4,Gaurav Mehra,present,2026-02-09
 5,Kajal Dubey,absent,2026-02-09
@@ -996,7 +930,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,absent,2026-02-09
 9,Youmit Chaudhry,absent,2026-02-09
 1,Aaditya Gupta,absent,2026-03-24
-2,Krish Vinchurkar,present,2026-03-24
 3,yash Gupta,present,2026-03-24
 4,Gaurav Mehra,present,2026-03-24
 5,Kajal Dubey,present,2026-03-24
@@ -1005,7 +938,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2026-03-24
 9,Youmit Chaudhry,present,2026-03-24
 1,Aaditya Gupta,absent,2026-03-24
-2,Krish Vinchurkar,present,2026-03-24
 3,yash Gupta,present,2026-03-24
 4,Gaurav Mehra,present,2026-03-24
 5,Kajal Dubey,present,2026-03-24
@@ -1014,7 +946,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2026-03-24
 9,Youmit Chaudhry,present,2026-03-24
 1,Aaditya Gupta,present,2026-10-25
-2,Krish Vinchurkar,absent,2026-10-25
 3,yash Gupta,present,2026-10-25
 4,Gaurav Mehra,present,2026-10-25
 5,Kajal Dubey,present,2026-10-25
@@ -1023,7 +954,6 @@ ROLLno,NAME,ATTENDANCE,DATE
 8,Sameer Patel,present,2026-10-25
 9,Youmit Chaudhry,present,2026-10-25
 1,Aaditya Gupta,absent,2026-10-25
-2,Krish Vinchurkar,absent,2026-10-25
 3,yash Gupta,absent,2026-10-25
 4,Gaurav Mehra,absent,2026-10-25
 5,Kajal Dubey,absent,2026-10-25
@@ -1031,3 +961,27 @@ ROLLno,NAME,ATTENDANCE,DATE
 7,Naman Tiwari,absent,2026-10-25
 8,Sameer Patel,absent,2026-10-25
 9,Youmit Chaudhry,absent,2026-10-25
+1,Aaditya Gupta,present,2026-10-26
+3,yash Gupta,present,2026-10-26
+4,Gaurav Mehra,present,2026-10-26
+5,Kajal Dubey,present,2026-10-26
+6,Kashish Chaudhary,present,2026-10-26
+7,Naman Tiwari,present,2026-10-26
+8,Sameer Patel,present,2026-10-26
+9,Youmit Chaudhry,present,2026-10-26
+1,Aaditya Gupta,absent,2026-10-27
+2,yash Gupta,present,2026-10-27
+3,Gaurav Mehra,present,2026-10-27
+4,Kajal Dubey,present,2026-10-27
+5,Kashish Chaudhary,present,2026-10-27
+6,Naman Tiwari,present,2026-10-27
+7,Sameer Patel,present,2026-10-27
+8,Youmit Chaudhry,None,2026-10-27
+1,Aaditya Gupta,absent,2026-10-27
+2,yash Gupta,present,2026-10-27
+3,Gaurav Mehra,present,2026-10-27
+4,Kajal Dubey,present,2026-10-27
+5,Kashish Chaudhary,present,2026-10-27
+6,Naman Tiwari,present,2026-10-27
+7,Sameer Patel,None,2026-10-27
+8,Youmit Chaudhry,present,2026-10-27
