@@ -16,7 +16,7 @@ Rollno=0
 rec=""
 def pnumber(name):
     if name == a:
-        return "+91 8450867160"    #enter mobile no. here
+        return #"+91"    #enter mobile no. here
     elif name == c:
         return #"+91 "    #enter mobile no. here
     elif name == d:
@@ -78,7 +78,7 @@ for k in i:
         file.write("\n") 
         rec="None"
     import mysql.connector as myrec
-    mycon=myrec.connect(host="localhost",user="root",passwd="123456",database="attendance")
+    mycon=myrec.connect(host="localhost",user="root",passwd="654321",database="attendance")
     cursor=mycon.cursor()
     data = "insert into AttenRec(ROLLno,NAME,ATTENDANCE,DATE) values({},'{}','{}','{}')".format(Rollno,k,rec,dates)
     cursor.execute(data)
